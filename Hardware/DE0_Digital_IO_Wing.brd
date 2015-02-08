@@ -1472,6 +1472,8 @@ design rules under a new name.</description>
 <wire x1="89.916" y1="24.882246875" x2="93.227753125" y2="28.194" width="0.254" layer="1"/>
 <wire x1="93.227753125" y1="28.194" x2="96.446284375" y2="28.194" width="0.254" layer="1"/>
 <wire x1="96.446284375" y1="28.194" x2="100.573" y2="24.067284375" width="0.254" layer="1"/>
+<contactref element="U1" pad="P$3"/>
+<wire x1="100.573" y1="24.067284375" x2="100.573" y2="22.358" width="0.254" layer="1"/>
 </signal>
 <signal name="GPIO0_D15">
 <contactref element="J1" pad="22"/>
