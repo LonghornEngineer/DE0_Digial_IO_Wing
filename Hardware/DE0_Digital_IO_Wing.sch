@@ -2372,11 +2372,6 @@ PIN_V7
 <wire x1="160.02" y1="88.9" x2="149.86" y2="88.9" width="0.1524" layer="91"/>
 <label x="149.86" y="88.9" size="1.016" layer="95" font="vector"/>
 </segment>
-<segment>
-<pinref part="J2" gate="G$1" pin="11"/>
-<wire x1="215.9" y1="88.9" x2="205.74" y2="88.9" width="0.1524" layer="91"/>
-<label x="205.74" y="88.9" size="1.016" layer="95" font="vector"/>
-</segment>
 </net>
 <net name="GPIO0_D8" class="0">
 <segment>
@@ -2455,11 +2450,6 @@ PIN_V7
 </segment>
 </net>
 <net name="3.3V" class="0">
-<segment>
-<pinref part="J1" gate="G$1" pin="29"/>
-<wire x1="149.86" y1="66.04" x2="160.02" y2="66.04" width="0.1524" layer="91"/>
-<label x="149.86" y="66.04" size="1.016" layer="95" font="vector"/>
-</segment>
 <segment>
 <pinref part="J2" gate="G$1" pin="29"/>
 <wire x1="215.9" y1="66.04" x2="205.74" y2="66.04" width="0.1524" layer="91"/>
