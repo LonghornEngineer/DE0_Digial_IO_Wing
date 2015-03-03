@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Mar 02 23:07:04 2015
+Quartus II 32-bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : DE0_Digital_IO_Wing
+Top-level Entity Name : DE0_Digital_IO_Wing_Test
+Family : Cyclone III
+Total logic elements : 43
+    Total combinational functions : 11
+    Dedicated logic registers : 41
+Total registers : 41
+Total pins : 41
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
